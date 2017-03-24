@@ -10,3 +10,9 @@ D:\Samtec\Code\cSharp\CodeFightsTesting\CodeFightsTesting\obj\Debug\CodeFightsTe
 D:\Samtec\Code\cSharp\CodeFightsTesting\CodeFightsTesting\bin\Debug\CodeFightsTesting.exe
 D:\Samtec\Code\cSharp\CodeFightsTesting\CodeFightsTesting\bin\Debug\CodeFightsTesting.pdb
 D:\Samtec\Code\cSharp\CodeFightsTesting\CodeFightsTesting\obj\Debug\CodeFightsTesting.csprojResolveAssemblyReference.cache
+C:\Git\CodeFightsTesting\CodeFightsTesting\bin\Debug\CodeFightsTesting.exe.config
+C:\Git\CodeFightsTesting\CodeFightsTesting\obj\Debug\CodeFightsTesting.exe
+C:\Git\CodeFightsTesting\CodeFightsTesting\obj\Debug\CodeFightsTesting.pdb
+C:\Git\CodeFightsTesting\CodeFightsTesting\bin\Debug\CodeFightsTesting.exe
+C:\Git\CodeFightsTesting\CodeFightsTesting\bin\Debug\CodeFightsTesting.pdb
+C:\Git\CodeFightsTesting\CodeFightsTesting\obj\Debug\CodeFightsTesting.csprojResolveAssemblyReference.cache
