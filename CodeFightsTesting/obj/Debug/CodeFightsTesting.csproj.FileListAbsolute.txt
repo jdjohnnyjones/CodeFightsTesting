@@ -1,0 +1,12 @@
+c:\users\johnnyj\documents\visual studio 2015\Projects\CodeFightsTesting\CodeFightsTesting\bin\Debug\CodeFightsTesting.exe.config
+c:\users\johnnyj\documents\visual studio 2015\Projects\CodeFightsTesting\CodeFightsTesting\obj\Debug\CodeFightsTesting.csprojResolveAssemblyReference.cache
+c:\users\johnnyj\documents\visual studio 2015\Projects\CodeFightsTesting\CodeFightsTesting\bin\Debug\CodeFightsTesting.exe
+c:\users\johnnyj\documents\visual studio 2015\Projects\CodeFightsTesting\CodeFightsTesting\bin\Debug\CodeFightsTesting.pdb
+c:\users\johnnyj\documents\visual studio 2015\Projects\CodeFightsTesting\CodeFightsTesting\obj\Debug\CodeFightsTesting.exe
+c:\users\johnnyj\documents\visual studio 2015\Projects\CodeFightsTesting\CodeFightsTesting\obj\Debug\CodeFightsTesting.pdb
+D:\Samtec\Code\cSharp\CodeFightsTesting\CodeFightsTesting\bin\Debug\CodeFightsTesting.exe.config
+D:\Samtec\Code\cSharp\CodeFightsTesting\CodeFightsTesting\obj\Debug\CodeFightsTesting.exe
+D:\Samtec\Code\cSharp\CodeFightsTesting\CodeFightsTesting\obj\Debug\CodeFightsTesting.pdb
+D:\Samtec\Code\cSharp\CodeFightsTesting\CodeFightsTesting\bin\Debug\CodeFightsTesting.exe
+D:\Samtec\Code\cSharp\CodeFightsTesting\CodeFightsTesting\bin\Debug\CodeFightsTesting.pdb
+D:\Samtec\Code\cSharp\CodeFightsTesting\CodeFightsTesting\obj\Debug\CodeFightsTesting.csprojResolveAssemblyReference.cache
